@@ -1,21 +1,20 @@
-<h1 align="center">🇨🇦👋 Hi there! 👋🇨🇦</h1>
-<h4 align="center"><a href="https://chiem.me">🤩 Check out my awesome site! 🤩</a></h4>
+# Hi there! 👋
+<p align="center">
+  <a href="https://github.com/Doudou8?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Doudou8.svg?style=for-the-badge&label=Stars&maxAge=2592000&labelColor=27ae60&color=2ecc71"/></a>
+  <a href="https://github.com/Doudou8?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Doudou8.svg?style=for-the-badge&label=Follow&maxAge=2592000&labelColor=2980b9&color=3498db"/></a>
+</p>
+  
+I am a student who is passionate about coding and designing. Since 2019, I have learned many programming languages and worked on a lot fun projects. Many of the tools, apps and websites I created are open-source. My favourite language to code in is JavaScript. I always try to improve my skills and learn about new technologies. 
 
-<p>I'm a student that loves coding and designing stuff. Since I do this mostly for fun, a big part of my work is done in my spare time. I want to make people's lives easier and better by creating great tools, apps and websites.</p>
+## 🛠️ My Favourite Tools
+  ### ⌨️ Programming Languages
+  <a href="https://github.com/search?q=user%3ADoudou8+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="https://github.com/search?q=user%3ADoudou8+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADoudou8+language%3Acss"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADoudou8+language%3Ascss"><img alt="SCSS" src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADoudou8+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 
-### What I know...
-- CSS/SCSS
-- HTML
-- JavaScript/TypeScript
-- Lua (Roblox)
-- Swift
-- Java and Dart (a little... 😉)
+## Find me around the web 🌐
+  Check out my website at [chiem.me](https://chiem.me)
 
-### What I like...
-- 💻 Coding
-- 🎨 Designing
-- ☁️ Servers
-- 🌐 Networks
-- 🥁 Music
-- 🍳 Eating / Cooking
-- 🎥 Watching videos / movies
+  <a href="https://www.linkedin.com/in/dang-khoa-chiem-357a11240/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
