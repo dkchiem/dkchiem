@@ -46,9 +46,9 @@ I am a student who is passionate about coding and designing. Since 2019, I have 
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
   
 ## 📊 My GitHub Stats
+  <!-- From https://github.com/anuraghazra/github-readme-stats -->
   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=dark&layout=compact" height="180px">](https://github.com/Doudou8#gh-dark-mode-only)
   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=default&layout=compact" height="180px">](https://github.com/Doudou8#gh-light-mode-only)
   [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=dark" height="180px">](https://github.com/Doudou8#gh-dark-mode-only)
@@ -58,3 +58,5 @@ I am a student who is passionate about coding and designing. Since 2019, I have 
   Check out my website at [chiem.me](https://chiem.me)
 
   <a href="https://www.linkedin.com/in/dang-khoa-chiem-357a11240/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+  <a href="https://stackoverflow.com/users/9723899/dang-khoa-chiem"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
