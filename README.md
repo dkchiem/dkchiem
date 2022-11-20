@@ -1,11 +1,15 @@
-# Hi there! 👋
+# Hi there! 👋 🇨🇦
 <p align="center">
   <a href="https://github.com/Doudou8?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Doudou8.svg?style=for-the-badge&label=Stars&maxAge=2592000&labelColor=27ae60&color=2ecc71"/></a>
   <a href="https://github.com/Doudou8?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Doudou8.svg?style=for-the-badge&label=Follow&maxAge=2592000&labelColor=2980b9&color=3498db"/></a>
 </p>
   
-I am a student who is passionate about coding and designing. Since 2019, I have learned many programming languages and worked on a lot fun projects. Many of the tools, apps and websites I created are open-source. My favourite language to code in is JavaScript. I always try to improve my skills and learn about new technologies. 
+I am a student who is passionate about coding and designing. Since 2019, I have learned many programming languages and worked on a lot fun projects. Many of the tools, apps and websites I created are open-source. My favourite language to code in is JavaScript. I always try to improve my skills and learn about new technologies.
 
+<p align="center">
+  <img alt="Programming Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=transparent">
+</p>
+  
 ## 🛠️ My Favourite Tools
   ### ⌨️ Programming Languages
   <a href="https://github.com/search?q=user%3ADoudou8+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
