@@ -49,8 +49,8 @@ I am a student who is passionate about coding and designing. Since 2019, I have 
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
   
 ## 📊 My GitHub Stats
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=dark&layout=compact" height="192px">](https://github.com/Doudou8#gh-dark-mode-only)
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=default&layout=compact" height="192px">](https://github.com/Doudou8#gh-light-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=dark&layout=compact" height="180px">](https://github.com/Doudou8#gh-dark-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=default&layout=compact" height="180px">](https://github.com/Doudou8#gh-light-mode-only)
   [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=dark" height="192px">](https://github.com/Doudou8#gh-dark-mode-only)
   [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=default" height="192px">](https://github.com/Doudou8#gh-light-mode-only)
 
