@@ -1,5 +1,5 @@
 <h1 align="center">🇨🇦👋 Hi there! 👋🇨🇦</h1>
-<h4 align="center"><a href="https://dcodes.dev">🤩 Check out my awesome site! 🤩</a></h4>
+<h4 align="center"><a href="https://chiem.me">🤩 Check out my awesome site! 🤩</a></h4>
 
 <p>I'm a student that loves coding and designing stuff. Since I do this mostly for fun, a big part of my work is done in my spare time. I want to make people's lives easier and better by creating great tools, apps and websites.</p>
 
