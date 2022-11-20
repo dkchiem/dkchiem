@@ -18,4 +18,4 @@
 - 🌐 Networks
 - 🥁 Music
 - 🍳 Eating / Cooking
-- 🎥 Watch videos / movies
+- 🎥 Watching videos / movies
