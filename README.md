@@ -51,8 +51,8 @@ I am a student who is passionate about coding and designing. Since 2019, I have 
 ## 📊 My GitHub Stats
   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=dark&layout=compact" height="180px">](https://github.com/Doudou8#gh-dark-mode-only)
   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=default&layout=compact" height="180px">](https://github.com/Doudou8#gh-light-mode-only)
-  [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=dark" height="192px">](https://github.com/Doudou8#gh-dark-mode-only)
-  [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=default" height="192px">](https://github.com/Doudou8#gh-light-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=dark" height="180px">](https://github.com/Doudou8#gh-dark-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=default" height="180px">](https://github.com/Doudou8#gh-light-mode-only)
 
 ## 🌐 Find me elsewhere
   Check out my website at [chiem.me](https://chiem.me)
