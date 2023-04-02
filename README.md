@@ -1,6 +1,6 @@
 # Hi there! 👋 🇨🇦
 <p align="center">
-  <a href="https://github.com/dkchiem?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Doudou8.svg?style=for-the-badge&label=Stars&maxAge=2592000&labelColor=27ae60&color=2ecc71"/></a>
+  <a href="https://github.com/dkchiem?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dkchiem.svg?style=for-the-badge&label=Stars&maxAge=2592000&labelColor=27ae60&color=2ecc71"/></a>
   <a href="https://github.com/dkchiem?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/dkchiem.svg?style=for-the-badge&label=Follow&maxAge=2592000&labelColor=2980b9&color=3498db"/></a>
 </p>
   
@@ -49,10 +49,10 @@ I am a student who is passionate about coding and designing. Since 2019, I have 
   
 ## 📊 My GitHub Stats
   <!-- From https://github.com/anuraghazra/github-readme-stats -->
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=dark&layout=compact" height="180px">](https://github.com/Doudou8#gh-dark-mode-only)
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doudou8&theme=default&layout=compact" height="180px">](https://github.com/Doudou8#gh-light-mode-only)
-  [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=dark" height="180px">](https://github.com/Doudou8#gh-dark-mode-only)
-  [<img src="https://github-readme-stats.vercel.app/api?username=Doudou8&show_icons=true&theme=default" height="180px">](https://github.com/Doudou8#gh-light-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkchiem&theme=dark&layout=compact" height="180px">](https://github.com/dkchiem#gh-dark-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkchiem&theme=default&layout=compact" height="180px">](https://github.com/dkchiem#gh-light-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api?username=dkchiem&show_icons=true&theme=dark" height="180px">](https://github.com/dkchiem#gh-dark-mode-only)
+  [<img src="https://github-readme-stats.vercel.app/api?username=dkchiem&show_icons=true&theme=default" height="180px">](https://github.com/dkchiem#gh-light-mode-only)
 
 ## 🌐 Find me elsewhere
   Check out my website at [chiem.me](https://chiem.me)
